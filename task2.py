@@ -41,7 +41,7 @@ def manipulate_image(input_path, output_path):
         print(f"❌ Terjadi kesalahan: {e}")
 
 if __name__ == "__main__":
-    manipulate_image('gunung.jpg', 'result.jpg')
+    manipulate_image('naruto.jpg', 'result.jpg')
 
 
 def manipulate_audio(input_path, output_path):
